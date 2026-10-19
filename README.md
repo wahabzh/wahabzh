@@ -2,12 +2,11 @@
 
 ```js
 const aboutMe = {
-    "description": "🧑‍💻 Product-minded Full-Stack Software Engineer with 2+ years' experience.",
+    "description": "🧑‍💻 Software Engineer with 2+ years' experience.",
     "highlight": "🚀 Built products that boosted traffic by 2,400+ and conversions by 40%.",
     "passion": "🤖 Love shipping AI-driven apps that make a difference",
 };
 ```
-> 🟢 **Open to new opportunities!** 
 
 ## 🛠️ Tech & Tools
 
